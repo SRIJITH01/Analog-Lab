@@ -5,3 +5,4 @@ Experiment-3: PCB design <br>
 Experiment-4: Charge pump <br>
 Experiment-5: Voltage controlled oscillator <br>
 Experiment-6: PCB Design for Voltage controlled oscillator <br>
+Experiment-7: Mixer <br>
